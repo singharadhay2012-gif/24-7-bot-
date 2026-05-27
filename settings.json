@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Not_Floxy0.aternos.me",
-    "port": 63752,
+    "ip": "OnlyoneBlock.play.hosting",
+    "port": 23979,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Not_Floxy made me",
+        "i will make this server good"
       ]
     },
     "chat-log": true,
