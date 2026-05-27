@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "Iamafkhere",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
-    "ip": "OnlyoneBlock.play.hosting",
-    "port": 55022,
+    "ip": "Not_Floxy0.aternos.me",
+    "port": 63752,
     "version": "1.20.1",
     "try-creative": false  },
   "position": {
@@ -83,4 +83,10 @@
   "chat": {
     "respond": true
   }
+}
+"auto-reconnect": {
+  "enabled": true,
+  "repeat": true,
+  "disconnect-after": 14400,
+  "reconnect-delay": 120
 }
