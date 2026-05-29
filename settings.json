@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Not_Floxy0.aternos.me",
-    "port": 63752,
+    "ip": "armadillo.exaroton.me",
+    "port": 34992,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -29,13 +29,13 @@
     },
 
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 120,
+      "enabled":false,
+      "repeat": false,
+      "repeat-delay": 10800,
       "messages": [
-        "I'm a regular player",
-        "Not_Floxy made me",
-        "i will make this server good"
+        " hi ",
+        " hi ",
+        " hi  "
       ]
     },
 
@@ -43,7 +43,7 @@
 
     "auto-reconnect": {
       "enabled": true,
-      "reconnect-delay": 120,
+      "reconnect-delay":10800,
       "disconnect-after": 14400,
       "repeat": true,
       "max-reconnect-delay": 120000
