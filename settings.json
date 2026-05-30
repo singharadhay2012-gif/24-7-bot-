@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Not_Floxy0.aternos.me:63752",
+    "ip": "Not_Floxy0.aternos.me",
     "port": 63752,
     "version": "1.20.1",
     "try-creative": false
