@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "armadillo.exaroton.me",
-    "port": 34992,
+    "ip": "Not_Floxy0.aternos.me:63752",
+    "port": 63752,
     "version": "1.20.1",
     "try-creative": false
   },
