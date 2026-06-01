@@ -42,7 +42,7 @@
     "chat-log": true,
 
     "auto-reconnect": {
-      "enabled": true,
+      "enabled": false,
       "reconnect-delay":10800,
       "disconnect-after": 14400,
       "repeat": true,
