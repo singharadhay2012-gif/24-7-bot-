@@ -29,21 +29,21 @@
     },
 
     "chat-messages": {
-      "enabled":false,
+      "enabled": false,
       "repeat": false,
       "repeat-delay": 10800,
       "messages": [
         " hi ",
         " hi ",
-        " hi  "
+        " hi "
       ]
     },
 
     "chat-log": true,
 
     "auto-reconnect": {
-      "enabled": false,
-      "reconnect-delay":10800,
+      "enabled": true,
+      "reconnect-delay": 5000,
       "disconnect-after": 14400,
       "repeat": true,
       "max-reconnect-delay": 120000
