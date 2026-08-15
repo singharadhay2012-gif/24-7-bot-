@@ -40,16 +40,7 @@
     },
 
     "chat-log": true,
-
-    "auto-reconnect": {
-      "enabled": true,
-      "reconnect-delay": 5000,
-      "disconnect-after": 14400,
-      "repeat": true,
-      "max-reconnect-delay": 120000
-    }
-  },
-
+    
   "movement": {
     "enabled": true,
 
